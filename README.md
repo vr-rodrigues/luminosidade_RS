@@ -6,11 +6,9 @@ Este projeto é relevante por conseguir analisar todos os municípios do estado 
 
 ### Estrutura do Projeto
 - **scripts/**: Diretório contendo os scripts usados no projeto.
-  - **python/**: Código Python para processar os dados TIFF.
-    - `create_tiles.py`: Script que junta os arquivos TIFF em um tile único para cada dia.
-  - **R/**: Código R para análise de dados.
-    - `delta.R`: Script que calcula e plota a variação de luminosidade.
-    - `timeline.R`: Script que calcula e plota as séries de tempo de luminosidade.
+  - `create_tiles.py`: Script que junta os arquivos TIFF em um tile único para cada dia.
+  - `delta.R`: Script que calcula e plota a variação de luminosidade.
+  - `timeline.R`: Script que calcula e plota as séries de tempo de luminosidade.
 - **grafico/**: Diretório contendo os resultados das análises.
   - **delta/**: Plots da variação de luminosidade.
     - `delta_RS.png`
