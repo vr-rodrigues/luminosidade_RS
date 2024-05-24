@@ -11,19 +11,19 @@ Este projeto é relevante por conseguir analisar todos os municípios do estado 
   - **R/**: Código R para análise de dados.
     - `delta.R`: Script que calcula e plota a variação de luminosidade.
     - `timeline.R`: Script que calcula e plota as séries de tempo de luminosidade.
-- **results/**: Diretório contendo os resultados das análises.
-  - **plots/**: Plots da variação de luminosidade.
+- **grafico/**: Diretório contendo os resultados das análises.
+  - **delta/**: Plots da variação de luminosidade.
     - `delta_RS.png`
     - `delta_PortoAlegre.png`
     - `delta_Canoas.png`
-  - **timelines/**: Plots das séries de tempo de luminosidade.
+  - **timeline/**: Plots das séries de tempo de luminosidade.
     - `timeline_RS.png`
     - `timeline_PortoAlegre.png`
     - `timeline_Canoas.png`
 - **README.md**: Este arquivo.
 
 ### Dados
-Os arquivos TIFF que abrangem o Rio Grande do Sul estão nas coordenadas h12v11, h12v12, h13v11. Você pode baixá-los no [site da nasa](https://ladsweb.modaps.eosdis.nasa.gov/archive/allData/5000/VNP46A2) e compilá-los com o código python ou então os tiles já comprimidos no [meu drive](https://drive.google.com/drive/folders/1uvZCc3xIDAUm0k-ojy7hohBbxhua8_JU?usp=drive_link)
+Os arquivos TIFF que abrangem o Rio Grande do Sul estão nas coordenadas h12v11, h12v12, h13v11. Você pode baixá-los no [site da nasa](https://ladsweb.modaps.eosdis.nasa.gov/archive/allData/5000/VNP46A2) e compilá-los com o código python ou então os tiles já comprimidos no [meu drive](https://drive.google.com/drive/folders/1uvZCc3xIDAUm0k-ojy7hohBbxhua8_JU?usp=drive_link). Você também precisa do shapefile  da malha municipial. Baixe aqui no [IBGE](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html)
 
 ## Requisitos
 - Python 3.x
