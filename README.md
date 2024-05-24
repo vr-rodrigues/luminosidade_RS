@@ -33,3 +33,7 @@ Os arquivos TIFF que abrangem o Rio Grande do Sul estão nas coordenadas h12v11,
 
 ### Referências
 Román, M. O., Wang, Z., Sun, Q., Kalb, V., Miller, S. D., Molthan, A., ... & Masuoka, E. J. (2018). NASA's Black Marble nighttime lights product suite. Remote Sensing of Environment, 210, 113-143.
+
+### Observação:
+Se quiser usar o projeto academicamente, enquanto eu não faço um working paper, por favor cite como:
+Rangel, V. (2024). Luminosidade Noturna no RS (versão 1.0). GitHub. https://github.com/vr-rodrigues/luminosidade_RS
