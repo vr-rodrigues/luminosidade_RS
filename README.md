@@ -3,7 +3,7 @@
 Este repositório contém a análise da evolução da luminosidade noturna no Rio Grande do Sul pós enchentes. Utilizando o produto VNP46A2 do Black Marble da Nasa (Román et al., 2018), as análises focam na variação de luminosidade noturna entre os dias de 9 de abril a 9 de maio do ano 2024 para o estado do Rio Grande do Sul, municípios de Porto Alegre e Canoas.
 
 ![Comparação de Resultados](grafico/comparacao.png)
-<sub>À esquerda, foto de satélite de Canoas após enchentes. À direita, variação da luminosidade noturna.</sub>
+<sub>Para Canoas: À esquerda, foto de satélite após enchentes. Ao meio, variação da luminosidade noturna geograficamente. À direita, série de tempo da luminosidade média em 30 dias. </sub>
 
 
 Este projeto é relevante por conseguir analisar todos os municípios do estado caso necessário, não só a região metropolitana.
