@@ -6,7 +6,7 @@ Este repositório contém a análise da evolução da luminosidade noturna no Ri
 <sub>Para Canoas: À esquerda, foto de satélite após enchentes. Ao meio, variação da luminosidade noturna geograficamente. À direita, série de tempo da luminosidade média em 30 dias. </sub>
 
 
-Este projeto é relevante por conseguir analisar todos os municípios do estado caso necessário, não só a região metropolitana.
+Este projeto é relevante por conseguir analisar todos os municípios do estado caso necessário, não só a região metropolitana. O objetivo é mostrar como compreender a evolução desse fenômeno, e ajudar na avaliação de perdas econômicas, impacto na infraestrutura do estado, e também na tomada de decisão de planejamento urbano e retomada econômica daqui pra frente.
 
 ### Estrutura do Projeto
 - **scripts/**: Diretório contendo os scripts usados no projeto.
